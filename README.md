@@ -8,4 +8,4 @@
 
 ## Это - я. Приятно познакомиться!
 
-![Будем знакомы](Каргина.jpg)
+<image src="/personal_information/Kargina.jpg" alt="Будем знакомы">
