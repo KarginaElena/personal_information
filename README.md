@@ -9,3 +9,5 @@
 ## Это - я. Приятно познакомиться!
 
 ![Будем знакомы](Kargina.jpg)
+
+![My photo](https://skrinshoter.ru/sLIVbTGBeoB?a)
