@@ -11,3 +11,5 @@
 ![Будем знакомы](Kargina.jpg)
 
 ![My photo](https://skrinshoter.ru/sLIVbTGBeoB?a)
+
+![Будем знакомы](Personal_information/Kargina.jpg)
