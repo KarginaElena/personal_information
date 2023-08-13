@@ -8,5 +8,4 @@
 
 ## Это - я. Приятно познакомиться!
 
-![Будем знакомы](https://skrinshoter.ru/sLIVbTGBeoB?a)
-
+![Будем знакомы](Kargina.jpg)
