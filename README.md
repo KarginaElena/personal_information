@@ -12,4 +12,6 @@
 
 ![My photo](https://skrinshoter.ru/sLIVbTGBeoB?a)
 
-![Будем знакомы](Personal_information/Kargina.jpg)
+![Photo](https://disk.yandex.ru/i/uN_qHEAuoPzOtA)
+
+
